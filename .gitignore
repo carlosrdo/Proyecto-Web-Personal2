@@ -1,0 +1,16 @@
+# Ignore images directory if it contains placeholder/temp files
+images/
+
+# Ignore temporary files
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore log files
+*.log
